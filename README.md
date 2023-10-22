@@ -1,2 +1,2 @@
 # Demo
-This a demo to learn git and github class!
+This a demo to learn git and github !
